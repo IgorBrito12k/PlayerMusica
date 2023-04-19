@@ -1,5 +1,5 @@
 # PlayerMusica
-Criando um player de música utilizando html, css e javascript
+Criando um player de música com fins didáticos utilizando html, css e javascript (por isso tantos comentários)
 
 # Prints
 
