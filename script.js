@@ -11,7 +11,8 @@ let musicas = [
     {
         titulo: 'Love Like You',
         artista: 'Rebecca Sugar',
-        src: 'audio/Love Like You (feat. Rebecca Sugar) (End Credits) (320 kbps).mp3', img: 'img/steven universe.jpg'
+        src: 'audio/Love Like You (feat. Rebecca Sugar) (End Credits) (320 kbps).mp3', 
+        img: 'img/steven universe.jpg'
     },
 
     //objeto musica 2
